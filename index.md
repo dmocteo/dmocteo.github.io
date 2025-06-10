@@ -1,6 +1,6 @@
 
 # Short Bio
-![photo](dany.png "Daniela Moctezuma")
+<img src="dany.png" alt="Daniela Moctezuma" width="200"/>
 
 I studied computer science for my bachelor's degree at the [Tecnológico Nacional campus in Los Mochis, Sinaloa](https://www.mochis.tecnm.mx/), México (2002-2006). I then obtained my master's degree in computer science, particularly Artificial Intelligence, at [CENIDET](https://www.cenidet.tecnm.mx/) (2007-2009). Finally, I got my PhD from [King Juan Carlos University](https://www.urjc.es/), campus Móstoles, in Spain (2009-2013). 
 Currently, I have been working as a professor at the Research Center on Geospatial Information Sciences ([CentroGeo](https://www.centrogeo.org.mx/)) since 2014.
