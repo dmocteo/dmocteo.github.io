@@ -10,7 +10,7 @@ I was awarded the "Young Talent in Computer Sciences" prize by the [Mexican Acad
 I am part of the National Research System (SNII) rank 1 (Mexico).
 I teach data science, computer vision, computer programming, and machine learning.
 
-Please see my Google Scholar page to see all my publications [Google Scholar page](https://scholar.google.com/citations?user=SbtmwwsAAAAJ&hl=es)
+Please go to my Google Scholar page to see all my publications [Google Scholar page](https://scholar.google.com/citations?user=SbtmwwsAAAAJ&hl=es)
 
 # CONTACT  
 Centro de investigación en ciencias de información geoespacial ([CentroGeo](https://www.centrogeo.org.mx/))
