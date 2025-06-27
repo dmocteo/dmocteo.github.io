@@ -18,8 +18,8 @@ Circuito Tecnopolo Norte, No.107 Col. Tecnopolo Pocitos II, 20313 Aguascalientes
 Email. dmoctezuma[at]centrogeo[dot]edu[dot]mx
 
 # Projects
--> Remote sensing image classification 
--> Identification of objects and people in smart video surveillance systems
--> Explainable text classification models
--> Classification of image and text using multimodal models
--> Text classification problems (polarity, aggressivity, humor, etc.)
+-> Remote sensing image classification   
+-> Identification of objects and people in smart video surveillance systems  
+-> Explainable text classification models  
+-> Classification of image and text using multimodal models  
+-> Text classification problems (polarity, aggressivity, humor, etc.)  
