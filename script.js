@@ -1,0 +1,1 @@
+const botones=document.querySelectorAll(".tab-btn"); const contenidos=document.querySelectorAll(".tab-content"); botones.forEach(btn=>{btn.addEventListener("click",()=>{botones.forEach(b=>b.classList.remove("active")); contenidos.forEach(c=>c.classList.remove("active")); btn.classList.add("active"); document.getElementById(btn.dataset.tab).classList.add("active");});});
